@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,MAAO;EACL,WAAW,EAAE,MAAM;;AAGrB,EAAG;EACD,eAAe,EAAE,IAAI;EACrB,OAAO,EAAE,CAAC;;AAGZ,EAAG;EACD,OAAO,EAAE,YAAY;EACrB,MAAM,EAAE,MAAM;;AAGhB,CAAE;EACA,KAAK,ECjBA,OAAO",
+"sources": ["welcome.scss","../../sass/constants.scss"],
+"names": [],
+"file": "welcome.css"
+}
